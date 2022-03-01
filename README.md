@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KUSHAL149
 - 👀 I’m interested in Programming, IoT, Electronic Devices......
-- 🌱 I’m currently learning Btech from RCCIIT
+- 🌱 I’m currently Pursuing Btech from RCCIIT
 - 💞️ I’m looking to collaborate on 🙄🙄🙄
 - 📫 How to reach me 📩kushaldas149@gmail.com 📞+919804482503
 

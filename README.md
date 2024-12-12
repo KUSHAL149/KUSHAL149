@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Das</h1>
 <h3 align="center">Pythonista | FinTech</h3>
 
-<img align="center" alt="Coding" width="600" src="https://drive.google.com/file/d/1T0R3xRE_C_lh2jf_I8eHnDDt9CVK6aW8/view?usp=drive_link">
+<img align="center" alt="Coding" width="600" src="https://drive.google.com/file/d/1T0R3xRE_C_lh2jf_I8eHnDDt9CVK6aW8/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal149&label=Profile%20views&color=0e75b6&style=flat" alt="kushal149" /> </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Das</h1>
 <h3 align="center">Pythonista | FinTech</h3>
 
-<img align="center" alt="Coding" width="700" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+<img align="center" alt="Coding" width="900" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal149&label=Profile%20views&color=0e75b6&style=flat" alt="kushal149" /> </p>
 
